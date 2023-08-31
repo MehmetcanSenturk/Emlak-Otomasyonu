@@ -1,0 +1,55 @@
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form1.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Properties.Resources.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form3.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form2.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Dogrulama.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.KayiitFormu.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.MailDogrulama.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.SifremiUnuttum.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Hata.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Hata2.resources
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe.config
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.pdb
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\mehme\source\repos\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.pdb
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe.config
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.pdb
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Dogrulama.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form1.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form2.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form3.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Hata.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Hata2.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.KayiitFormu.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.MailDogrulama.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Properties.Resources.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.SifremiUnuttum.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.pdb
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.KulSifreDegis.resources
+C:\Users\HP\Desktop\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.RezerveEt.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe.config
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\bin\Debug\Emlak Otomasyon Projesi Gerçek.pdb
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form1.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form2.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Form3.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.KayiitFormu.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.KulSifreDegis.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.MailDogrulama.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.Properties.Resources.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.RezerveEt.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak_Otomasyon_Projesi.SifremiUnuttum.resources
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.exe
+C:\Users\mehme\Desktop\Görsel Programlama Proje Ödevi\Emlak Otomasyon Projesi\Emlak Otomasyon Projesi\obj\Debug\Emlak Otomasyon Projesi Gerçek.pdb
