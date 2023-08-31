@@ -19,7 +19,7 @@ Bu, C# ve SQL kullanarak geliştirdiğim özel emlak otomasyonu programımın de
 
 ## Katkılar
 
-Katılımınızı memnuniyetle karşılıyoruz! Projeyi çatallayabilir, hataları düzeltebilir, yeni özellikler ekleyebilir veya belgelendirme geliştirebilirsiniz. Lütfen "Pull Request" göndermeden önce değişiklikleri detaylı bir şekilde açıklayan bir açıklama eklemeyi unutmayın.
+ Projeyi  hataları düzeltebilir, yeni özellikler ekleyebilir veya belgelendirme geliştirebilirsiniz. Lütfen "Pull Request" göndermeden önce değişiklikleri detaylı bir şekilde açıklayan bir açıklama eklemeyi unutmayın.
 
 
 
